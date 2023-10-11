@@ -2,6 +2,23 @@
     background-color: pink!important;
 }
 h2 {
+    font-style: rgb(133, 14, 93);
     text-align: center !important;
     font-family: 'Times New Roman', Times, serif;
+}
+button {
+    color: whitesmoke !important;
+}
+
+.btn-primary{
+    background-color: plum !important;
+    border-color: bisque
+ }
+ .btn-secondary {
+    background-color: palevioletred;
+    border-color: bisque;
+ }
+.btn-success  {
+    background-color: peachpuff;
+    border-color: bisque;
 }
