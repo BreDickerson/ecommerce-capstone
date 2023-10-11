@@ -1,6 +1,16 @@
 button {
     color: whitesmoke !important;
 }
-btn-btn-primary{
-    padding: plum !important;
+
+.btn-primary{
+    background-color: plum !important;
+    border-color: bisque
  }
+ .btn-secondary {
+    background-color: palevioletred;
+    border-color: bisque;
+ }
+.btn-success  {
+    background-color: peachpuff;
+    border-color: bisque;
+}
