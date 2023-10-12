@@ -1,6 +1,9 @@
 .bg-primary {
     background-color: pink!important;
 }
+.bg-body-tertiary {
+    background-color: pink !important;
+}
 h2 {
     font-style: rgb(133, 14, 93);
     text-align: center !important;

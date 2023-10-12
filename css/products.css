@@ -14,3 +14,7 @@ button {
     background-color: peachpuff;
     border-color: bisque;
 }
+.div-class{
+    display: flex;
+    justify-content: space-evenly !important
+}
