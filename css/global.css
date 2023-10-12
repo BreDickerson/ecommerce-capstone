@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(241, 218, 222);
+}
 .bg-primary {
     background-color: pink!important;
 }

@@ -18,3 +18,10 @@ button {
     display: flex;
     justify-content: space-evenly !important
 }
+.row {
+    gap: 3rem;
+}
+.footer {
+    margin-top: 10rem;
+}
+
